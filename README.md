@@ -1,2 +1,2 @@
 # PdfExcelXlator
-Built with Replit to process my credit card statement
+Python tool that extracts data from PDF documents and converts them into structured Excel files — built to eliminate a repetitive manual workflow. Built with Replit.
